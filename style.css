@@ -91,6 +91,8 @@
 #block {
     width: 150px;
     height: 150px;
-    background-color: #f00;
+    background-color: #333;
     position: absolute;
+    left: 0;
+    top: 0;
 }
